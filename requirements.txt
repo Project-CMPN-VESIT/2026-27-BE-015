@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+transformers
+diffusers
+librosa
+opencv-python
+ffmpeg-python
+numpy
+scipy
+mediapipe
+scikit-image
+pystoi
+soundfile
+accelerate

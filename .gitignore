@@ -1,0 +1,14 @@
+# Notes
+implementation_plan.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+
+# Node / Next.js
+node_modules/
+.next/
