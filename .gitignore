@@ -12,3 +12,6 @@ venv/
 # Node / Next.js
 node_modules/
 .next/
+
+# Generated datasets and media
+Obama_Dataset/
